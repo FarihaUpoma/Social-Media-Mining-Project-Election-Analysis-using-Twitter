@@ -21,7 +21,7 @@ no_tweets_list = []
 
 total_tweets = 0
 
-for files in glob.glob("*.csv"):
+for files in glob.glob("data/*.csv"):
     print(files)
     poll_data = pd.read_csv(files)
     poll_data_list.append(poll_data)
