@@ -1,6 +1,5 @@
 # Social-Media-Mining-Project-Election-Analysis-using-Twitter
 
-pollNew.py contains the final code, it generates the bar graphs using existing data files.
 
 The role of Social Media in predicting real world phenomena is
 getting increasingly popular. Tracking people’s activity provides a
@@ -22,5 +21,5 @@ reference→Evaluation; Empirical studies.
 #### KEYWORDS
 datasets, social networks, poll prediction, data mining
 
-#### Files
-Run code/pollNew.py
+#### To run
+Use pollNew.py, it contains the final code, it generates the bar graphs using existing data files.
